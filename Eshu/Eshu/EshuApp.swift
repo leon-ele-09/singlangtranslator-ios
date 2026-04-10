@@ -10,7 +10,7 @@ import SwiftUI
 struct EshuApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SignLanguageInterpreterView()
         }
     }
 }
